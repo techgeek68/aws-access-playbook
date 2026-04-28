@@ -1,7 +1,3 @@
-Here is the fact-checked and refined version of your guide. Notes on corrections are highlighted inline where relevant.
-
----
-
 # AWS Account Creation & Free Tier Guidance
 
 This guide walks you through creating an AWS account via the AWS Management Console, covering Free Tier benefits and how to monitor your usage to avoid unexpected charges.
@@ -76,7 +72,7 @@ Some AWS services offer free trials for a limited period, typically ranging from
 | Lambda    | 1M requests, 400,000 GB-seconds                   | Always Free |
 | DynamoDB  | 25 GB storage, 25 WCU, 25 RCU (~200M req/month)  | Always Free |
 
-\* *For accounts created on or after July 15, 2025, the EC2 Free Tier is 6 months with different instance types and $200 in credits; not the standard 12-month t2/t3.micro offer.*
+>*For accounts created on or after July 15, 2025, the EC2 Free Tier is 6 months, with different instance types and $200 in credits, not the standard 12-month t2/t3.micro offer.*
 
 ---
 
