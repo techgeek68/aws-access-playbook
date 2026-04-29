@@ -13,7 +13,7 @@ This guide walks you through creating an AWS account via the AWS Management Cons
 
 **2. Enter Account and Contact Information**
 
-- **Email Address:** Enter a valid email address (AWS will send a verification code to confirm it).
+- **Root user email address:** Enter a valid email address (AWS will send a verification code to confirm it).
 - **Account Name:** Choose a name for your AWS account.
 - **Password:** Your password must be at least 8 characters and include a mix of uppercase, lowercase, numbers, and symbols; and cannot match your account name or email address.
 - **Contact Information:** Select Personal or Business, then fill in your name (or company name), phone number, and address. For business accounts, it's best practice to use a company phone number rather than a personal one.
